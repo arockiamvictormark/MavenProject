@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-20T17:00:57 IST" name="Default suite" finished-at="2023-01-20T17:01:13 IST" duration-ms="16205">
+    <groups>
+    </groups>
+    <test started-at="2023-01-20T17:00:57 IST" name="Default test" finished-at="2023-01-20T17:01:13 IST" duration-ms="16205">
+      <class name="rest.api.Rest_API">
+        <test-method signature="url_launch()[pri:0, instance:rest.api.Rest_API@5987e932]" started-at="2023-01-20T17:00:57 IST" name="url_launch" finished-at="2023-01-20T17:01:13 IST" duration-ms="15835" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- url_launch -->
+      </class> <!-- rest.api.Rest_API -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
